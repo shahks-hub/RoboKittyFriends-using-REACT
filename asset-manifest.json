@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoboKittyFriends-using-REACT/static/css/main.5adf6bb4.css",
+    "main.js": "/RoboKittyFriends-using-REACT/static/js/main.743bca53.js",
+    "static/js/787.32032a02.chunk.js": "/RoboKittyFriends-using-REACT/static/js/787.32032a02.chunk.js",
+    "index.html": "/RoboKittyFriends-using-REACT/index.html",
+    "main.5adf6bb4.css.map": "/RoboKittyFriends-using-REACT/static/css/main.5adf6bb4.css.map",
+    "main.743bca53.js.map": "/RoboKittyFriends-using-REACT/static/js/main.743bca53.js.map",
+    "787.32032a02.chunk.js.map": "/RoboKittyFriends-using-REACT/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5adf6bb4.css",
+    "static/js/main.743bca53.js"
+  ]
+}
